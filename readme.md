@@ -14,12 +14,13 @@
     For Macbook: https://www.youtube.com/watch?v=0i-gstqgjuE
    ```
 
-3. Open cmd/terminal, cd into dir and type 'npm install' (only one time necessary)
+3. Open cmd/terminal, cd into directory ( OR open the teminal by going into discord-bot folder )  and type 'npm install' (only one time necessary)
 
-```
+   ```
 
-For Macbook: https://macpaw.com/how-to/use-terminal-on-mac
-For Windows: https://www.makeuseof.com/tag/a-beginners-guide-to-the-windows-command-line/
-```
+   For Macbook: https://macpaw.com/how-to/use-terminal-on-mac
+   For Windows: https://www.makeuseof.com/tag/a-beginners-guide-to-the-windows-command-line/
+   
+   ```
 
 4. To start the script type 'node ./index.js'
